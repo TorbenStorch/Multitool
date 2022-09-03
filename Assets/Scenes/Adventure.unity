@@ -31519,6 +31519,10 @@ PrefabInstance:
       propertyPath: goodHighlightSound
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 11445746, guid: 7a135b1a2cb9c8f488d4dd00c55ab283, type: 3}
+      propertyPath: showPlayAreaMarker
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a135b1a2cb9c8f488d4dd00c55ab283, type: 3}
 --- !u!4 &756753181 stripped
@@ -67671,6 +67675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 300f1894fee78fc4db1756e0f42869bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  adventureStarted: 0
   rope: {fileID: 0}
   flashlight: {fileID: 0}
   screw: {fileID: 0}
@@ -101164,6 +101169,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011498581176, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

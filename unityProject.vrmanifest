@@ -5,10 +5,10 @@
       "app_key": "application.generated.unity.sakstuff.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "U:\\Projects\\GitHub\\SAK\\SAKstuff\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "U:\\Projects\\Fork\\Multitool\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "SAKstuff [Testing]"
+          "name": "Multitool [Testing]"
         }
       }
     }
